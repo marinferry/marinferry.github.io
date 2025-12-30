@@ -5,6 +5,7 @@ authors: "Marin Ferry, Marine De Talancé, Miguel Nino-Zarazua"
 year: 2022
 
 type: manuscripts
+category: manuscripts      # <-- IMPORTANT
 status: "Published"
 
 journal: "Journal of Comparative Economics"
