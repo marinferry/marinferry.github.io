@@ -6,6 +6,7 @@ year: 2021
 month: 6
 
 type: manuscripts
+category: manuscripts      # <-- IMPORTANT
 status: "Published"
 
 journal: "Public Choice"
