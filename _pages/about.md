@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "Marin Ferry"
 author_profile: true
+author:
+  avatar: "/images/Photo_MF.jpg"
 redirect_from: 
   - /about/
   - /about.html
