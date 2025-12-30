@@ -12,7 +12,7 @@ journal: "Public Choice"
 volume: "187"
 number: "3"
 pages: "455–480"
-publisher: "Springer US"
+publisher: "Springer"
 
 paperurl: "https://link.springer.com/article/10.1007/s11127-020-00788-4"
 ---
