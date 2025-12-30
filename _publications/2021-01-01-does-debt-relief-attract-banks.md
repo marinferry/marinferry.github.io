@@ -5,6 +5,7 @@ authors: "Marin Ferry, Marc Raffinot, Baptiste Venet"
 year: 2021
 
 type: manuscripts
+category: manuscripts      # <-- IMPORTANT
 status: "Published"
 
 journal: "International Review of Law and Economics"
