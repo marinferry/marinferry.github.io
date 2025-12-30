@@ -6,6 +6,7 @@ year: 2019
 month: 2
 
 type: manuscripts
+category: manuscripts      # <-- IMPORTANT
 status: "Published"
 
 journal: "Review of World Economics"
