@@ -6,7 +6,7 @@ year: 2022
 
 type: manuscripts
 category: manuscripts      # <-- IMPORTANT
-status: "Published"
+#status: "Published"
 
 journal: "Journal of Comparative Economics"
 volume: "50"
