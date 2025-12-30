@@ -33,6 +33,22 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+
+    {% if post.authors %}
+  <p class="archive__item-authors">
+    {{ post.authors | replace: "Marin Ferry", "<strong>Marin Ferry</strong>" }}
+  </p>
+{% endif %}
+
+{% if post.journal %}
+  <p class="archive__item-venue">
+    <em>{{ post.journal }}</em>
+    {% if post.volume %}, {{ post.volume }}{% endif %}
+    {% if post.pages %}, {{ post.pages }}{% endif %}
+    {% if post.year %} ({{ post.year }}){% endif %}
+  </p>
+{% endif %}
+
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
