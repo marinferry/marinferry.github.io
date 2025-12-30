@@ -23,7 +23,7 @@ repository               : "marinferry/marinferry.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar   : "/images/Photo_MF.jpg"
+  avatar: "/images/Photo_MF.jpg"
   name     : "Marin Ferry"
   bio      : "Economist working on sovereign debt, foreign aid, political economy, firm dynamics, environmental policies."
   location : "Champs-sur-Marne, France"
