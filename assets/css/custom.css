@@ -181,3 +181,52 @@
 .media-page p {
   margin-bottom: 0.5rem;
 }
+
+* ===================================================== */
+/* ================= PROJECTS PAGE ===================== */
+/* ===================================================== */
+
+/* Slightly smaller and tighter typography */
+.project-page {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* Intro paragraph spacing */
+.project-page > p:first-of-type {
+  margin-bottom: 1.8rem;
+}
+
+/* Project titles (H2) */
+.project-page h2 {
+  font-size: 1.5rem;        /* harmonized with Research */
+  font-weight: 650;
+  margin-top: 2.4rem;
+  margin-bottom: 0.9rem;
+}
+
+/* Reduce spacing between metadata lines */
+.project-page p {
+  margin-bottom: 0.6rem;
+}
+
+/* Compact metadata block */
+.project-page p strong {
+  font-weight: 600;
+}
+
+/* Remove excessive spacing between consecutive metadata lines */
+.project-page p + p {
+  margin-top: -0.25rem;
+}
+
+/* Improve spacing before project description */
+.project-page p + hr {
+  margin-top: 2rem;
+}
+
+/* Subtle horizontal rule */
+.project-page hr {
+  margin: 2rem 0;
+  opacity: 0.25;
+}
