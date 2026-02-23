@@ -64,8 +64,8 @@ layout: default
 ## Research Supervision
 
 **PhD Candidates:**  
-- Antoine Boucher, 2019 - 2023 - Paris Dauphine University (PSL)  
-- Vincent Sansan Kambou, 2022 - Clermont Auvergne University (UCA, CERDI)
+- Antoine Boucher, 2019 - 2023 - Paris Dauphine University  
+- Vincent Sansan Kambou, 2022 - Clermont Auvergne University
 - Andrea Rouchon, 2025 - Université Gustave Eiffel
 - William Koscher, 2026 - Université Gustave Eiffel
 

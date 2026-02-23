@@ -46,48 +46,59 @@
 /* ================= TEACHING PAGE ===================== */
 /* ===================================================== */
 
-/* Wrapper control */
 .teaching-page {
+  font-size: 0.95rem;      /* mirror research page */
+  line-height: 1.6;        /* same vertical rhythm */
   padding-left: 0.5rem;
   padding-right: 0.5rem;
-
-  /* Slightly tighter vertical rhythm for CV-style layout */
-  line-height: 1.45;
 }
 
-/* Teaching headers slightly emphasized but tighter */
-/* Teaching headers spacing */
+
+/* ===================================================== */
+/* ============ UNIVERSITY SECTION HEADERS ============ */
+/* ===================================================== */
+
 .teaching-page h2 {
-  font-size: 1.4rem;
-  margin-top: 2.8rem;   /* larger separation between universities */
-  margin-bottom: 0.8rem;
+  font-size: 1.45rem;      /* mirror research h2 */
+  font-weight: 650;
+  margin-top: 2.4rem;      /* clean separation between universities */
+  margin-bottom: 0.9rem;
 }
 
-/* But remove extra space before the FIRST university */
+/* Reduce space before first university */
 .teaching-page h2:first-of-type {
-  margin-top: 1.2rem;
+  margin-top: 1.4rem;
 }
 
-/* Reduce list spacing specifically for teaching */
-.teaching-page ul {
-  margin-top: 0.3rem;
-  margin-bottom: 0.8rem;
-}
 
-.teaching-page li {
-  margin-bottom: 0.25rem;
-}
+/* ===================================================== */
+/* ============== POSITION / ROLE LINE ================= */
+/* ===================================================== */
 
-/* Position titles styling (compact) */
 .teaching-page p {
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.5rem;
 }
 
 .teaching-page p em {
-  font-size: 1.05rem;
+  font-size: 0.98rem;
   font-style: italic;
   display: block;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.6rem;
+  color: inherit;         /* keeps tone academic */
+}
+
+
+/* ===================================================== */
+/* ================= COURSE LIST ======================= */
+/* ===================================================== */
+
+.teaching-page ul {
+  margin-top: 0.4rem;
+  margin-bottom: 1.1rem;
+}
+
+.teaching-page li {
+  margin-bottom: 0.4rem;  /* slightly more breathing room */
 }
 
 /* ===================================================== */
