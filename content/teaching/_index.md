@@ -5,11 +5,11 @@ layout: default
 ---
 <div class="teaching-page">
 
-## Université Gustave Eiffel (UGE)
+## Université Gustave Eiffel
 *Assistant Professor (full-time)*  
 
-- **Local Development Policies** – MSc. Development Economics and International Project Management (2021 - Current) 
-- **Aid Effectiveness** – MSc. Development Economics and International Project Management (2025 - Current)  
+- **Local Development Policies** – MSc. DEIPM Management (2021 - Current) 
+- **Aid Effectiveness** – MSc. DEIPM (2025 - Current)  
 - **Macroeconomics** – 2nd year Undergraduate (2023 - Current)  
 - **Money and Finance** – 2nd year Undergraduate (2023 - Current)  
 - **Macroeconomics** – 2nd year Undergraduate (UIT) (2019 - 2024)  
@@ -20,21 +20,21 @@ layout: default
 
 - **Foreign Aid and Debt** – MSc. Development Economics (2022 - Current)  
 
-## Paris-Dauphine University (PSL)
+## Paris-Dauphine University
 *Lecturer / External Lecturer since 2021*  
 
-- **Financing for Development** – MSc. International Affairs and Development (2021 - Current)  
+- **Financing for Development** – MSc. Int. Affairs and Development (2021 - Current)  
 - **Macroeconomics** – 2nd year Undergraduate (2014 - 2017)  
 - **History of Economic Thought** – 1st year Undergraduate (2012 - 2013)  
 
-## Sciences Po Paris (PSIA)
+## Sciences Po Paris
 *External Lecturer*  
 
-- **From Aid to Debt? The Ups and Down of External Public Financing** – MSc. International Affairs (2023)  
-- **Public Finance in Developing Countries** – MSc. International Affairs (2017 - 2022)  
-- **Sustainable Growth in Developing Countries** – MSc. International Affairs (2014 - 2017)  
+- **From Aid to Debt? The Ups and Down of External Public Financing** – MSc. Int. Affairs (2023)  
+- **Public Finance in Developing Countries** – MSc. Int. Affairs (2017 - 2022)  
+- **Sustainable Growth in Developing Countries** – MSc. Int. Affairs (2014 - 2017)  
   TA for Paul Collier  
-- **Macroeconomic Policies** – MSc. in International Development (2012 - 2014)  
+- **Macroeconomic Policies** – MSc. in Int. Development (2012 - 2014)  
   TA for Anne Epaulard and Marc Raffinot  
 
 
@@ -46,7 +46,7 @@ layout: default
 ## University of Kent – Brussels School of International Studies
 *External Lecturer*  
 
-- **Development Economics** – MSc. International Development (2019 - 2023)  
+- **Development Economics** – MSc. Int. Development (2019 - 2023)  
 
 ## Paris-Nanterre University
 *Lecturer*  
@@ -55,7 +55,7 @@ layout: default
 - **Microeconomics** – 2nd year Undergraduate (2018)  
 - **Economics 101** – 1st year Undergraduate (2017)  
 
-## Paris School of Economics (PSE)
+## Paris School of Economics
 *External Lecturer*  
 
 - **Macroeconomic Policies** (2012 - 2017) – Teaching assistant 
