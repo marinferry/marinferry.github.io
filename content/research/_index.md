@@ -2,6 +2,9 @@
 title: ''
 type: page
 ---
+
+<div class="research-page">
+
 ## Work in Progress
 
 - **[Foreign Aid and Power Play: Political Cycles in World Bank's Procurement Allocation](https://www.aiddata.org/publications/foreign-aid-and-power-play-political-cycles-in-world-banks-procurement-allocation)**  
@@ -118,3 +121,5 @@ type: page
 <p style="line-height:1.1; font-size:0.7em;">
 World Development, Public Choice, Journal of Development Studies, Journal of African Economies, Revue d'Economie du Développement, Revue Economique, Revue d'Economie Politique, International Economics, European Journal of Comparative Economics, European Journal of Development Research, Journal of Public Finance and Public Choic, Revue Internationale des Etudes du Développement, International Journal of Financial Studies, PLOS ONE, Journal of Poverty, Journal of Economics and International Finance
 </p>
+
+</div>

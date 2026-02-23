@@ -89,3 +89,37 @@
   display: block;
   margin-bottom: 0.4rem;
 }
+
+/* ===================================================== */
+/* ================= RESEARCH PAGE ===================== */
+/* ===================================================== */
+
+/* Slightly smaller body text for research page */
+.research-page {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* Reduce large section headers (e.g. Work in Progress) */
+.research-page h1 {
+  font-size: 2rem;       /* was visually too dominant */
+  margin-bottom: 1.2rem;
+}
+
+/* If those titles are actually h2 in your theme, keep this too */
+.research-page h2 {
+  font-size: 1.45rem;
+  margin-top: 2.2rem;
+  margin-bottom: 0.9rem;
+  font-weight: 650;
+}
+
+/* Tighten spacing inside research lists */
+.research-page ul {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.research-page li {
+  margin-bottom: 0.6rem;
+}
