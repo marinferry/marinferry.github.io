@@ -134,3 +134,50 @@
 .research-page li {
   margin-bottom: 0.6rem;
 }
+
+/* ===================================================== */
+/* ==================== MEDIA PAGE ===================== */
+/* ===================================================== */
+
+.media-page {
+  font-size: 0.95rem;     /* same as research & teaching */
+  line-height: 1.6;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+
+/* ===================================================== */
+/* ============== MEDIA SECTION HEADERS =============== */
+/* ===================================================== */
+
+.media-page h2 {
+  font-size: 1.45rem;     /* same hierarchy as other pages */
+  font-weight: 650;
+  margin-top: 2.4rem;
+  margin-bottom: 0.9rem;
+}
+
+.media-page h2:first-of-type {
+  margin-top: 1.4rem;
+}
+
+
+/* ===================================================== */
+/* ================= MEDIA LIST ITEMS ================== */
+/* ===================================================== */
+
+.media-page ul {
+  margin-top: 0.4rem;
+  margin-bottom: 1.1rem;
+}
+
+.media-page li {
+  margin-bottom: 0.45rem;
+}
+
+
+/* Optional: tighten paragraph spacing */
+.media-page p {
+  margin-bottom: 0.5rem;
+}

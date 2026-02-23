@@ -2,6 +2,7 @@
 title: ''
 type: page
 ---
+<div class="media-page">
 
 ## Press articles
 - **[Le financement du développement à l'épreuve du Covid 19](https://shs.cairn.info/revue-l-economie-politique-2021-2-page-93)**<br>
@@ -47,3 +48,5 @@ type: page
 
 - **[Le sommet à Paris pour un pacte financier mondial se termine sans grande révolution](https://www.rts.ch/info/monde/14126277-le-sommet-a-paris-pour-un-pacte-financier-mondial-se-termine-sans-grande-revolution.html)**<br>
   *RTS (June 2023)*<br>
+
+</div>
