@@ -192,6 +192,12 @@
   line-height: 1.5;
 }
 
+.project-page p {
+  text-align: 
+  justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
 /* Intro paragraph spacing */
 .project-page > p:first-of-type {
   margin-bottom: 1.6rem;
@@ -220,3 +226,4 @@
   margin: 1.8rem 0;
   opacity: 0.2;
 }
+
