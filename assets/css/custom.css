@@ -182,12 +182,14 @@
   margin-bottom: 0.5rem;
 }
 
-/* ================= PROJECTS PAGE ===================== */
+/* ===================================================== */
+/* ================= PROJECTS PAGE ====================== */
+/* ===================================================== */
 
-/* Match typography with other pages */
+/* Typography: smaller and tighter than other pages */
 .project-page .prose {
-  font-size: 0.95rem;
-  line-height: 1.5;
+  font-size: 0.85rem !important;
+  line-height: 1.45;
 }
 
 /* Paragraph styling */
@@ -195,29 +197,29 @@
   text-align: justify;
   text-justify: inter-word;
   hyphens: auto;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.4rem;
 }
 
 /* Intro paragraph spacing */
 .project-page .prose > p:first-of-type {
-  margin-bottom: 1.6rem;
+  margin-bottom: 1.4rem;
 }
 
 /* Project titles (H2) */
 .project-page .prose h2 {
-  font-size: 1.3rem;
+  font-size: 1.2rem;      /* slightly smaller */
   font-weight: 600;
-  margin-top: 2.2rem;
-  margin-bottom: 0.8rem;
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
 }
 
 /* Tighten metadata lines */
 .project-page .prose p + p {
-  margin-top: -0.2rem;
+  margin-top: -0.15rem;
 }
 
 /* Horizontal rule */
 .project-page .prose hr {
-  margin: 1.8rem 0;
+  margin: 1.6rem 0;
   opacity: 0.2;
 }
