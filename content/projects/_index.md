@@ -4,8 +4,6 @@ type: page
 ---
 <div class="project-page">
 
-I have the privilege of participating in research projects that are detailed below.
-
 ## FISCal behavior, AId and Decentralization in Uganda (FISCAID)
 
 **ANR-JCJC (PI: Nathalie Ferriere)**  
