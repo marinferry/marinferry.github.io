@@ -182,53 +182,48 @@
   margin-bottom: 0.5rem;
 }
 
-/* ===================================================== */
-/* ================= PROJECTS PAGE ====================== */
+/* ===================================================== */ 
+/* ================= PROJECTS PAGE ===================== */
 /* ===================================================== */
 
-/* Global typography (clearly smaller) */
-.project-page .prose {
-  font-size: 0.8rem !important;
-  line-height: 1.4;
+/* Slightly smaller and tighter typography */
+.project-page {
+  font-size: 0.8rem;
+  line-height: 1.5;
 }
 
-/* Paragraphs */
-.project-page .prose p {
-  text-align: justify;
+.project-page p {
+  text-align: 
+  justify;
   text-justify: inter-word;
   hyphens: auto;
-  margin-bottom: 0.35rem;
 }
 
-/* Intro paragraph */
-.project-page .prose > p:first-of-type {
-  margin-bottom: 1.2rem;
+/* Intro paragraph spacing */
+.project-page > p:first-of-type {
+  margin-bottom: 1.6rem;
 }
 
-/* Titles (strong reduction) */
-.project-page .prose h2 {
-  font-size: 1.05rem !important;
+/* Project titles (H2) */
+.project-page h2 {
+  font-size: 1.3rem;        /* harmonized with Research */
   font-weight: 600;
-  margin-top: 1.6rem;
-  margin-bottom: 0.4rem;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
 }
 
-/* Optional: reduce any other headings just in case */
-.project-page .prose h1 {
-  font-size: 1.2rem !important;
+/* Metadata compact */
+.project-page p {
+  margin-bottom: 0.5rem;
 }
 
-.project-page .prose h3 {
-  font-size: 0.95rem !important;
-}
-
-/* Compact metadata */
-.project-page .prose p + p {
-  margin-top: -0.1rem;
+/* Tighten metadata lines */
+.project-page p + p {
+  margin-top: -0.2rem;
 }
 
 /* Horizontal rule */
-.project-page .prose hr {
-  margin: 1.4rem 0;
+.project-page hr {
+  margin: 1.8rem 0;
   opacity: 0.2;
 }
