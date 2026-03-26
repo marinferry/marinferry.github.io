@@ -10,7 +10,7 @@ type: page
 **Role:** Researcher  
 **Period:** 2025–2028  
 
-FISCAID aims to provide new empirical insights into the ability of aid to fulfil its core functions in an evolving context. FISCAID proposes using Uganda as a case study to analyze the various mechanisms through which foreign assistance affects the fiscal behavior of the recipient country, focusing on public domestic expenditure and revenues at the national and subnational level. This will inform theory and policy makers on how to implement effective external financing, avoiding the so-called Samaritan Dilemma. We will mobilize administrative data from the Ugandan (MFPED) Ministry of Finance, Planning and Economic Development (already collected) with econometric analyses addressing: i) to what extent is aid fungible and how does it impact the fiscal behavior of recipient governments in the context of aid fragmentation and decentralization? ii) do these fiscal effects affect aid effectiveness and more broadly development?
+FISCAID aims to provide new empirical insights into the ability of aid to fulfil its core functions in an evolving context. FISCAID proposes using Uganda as a case study to analyze the various mechanisms through which foreign assistance affects the fiscal behavior of the recipient country, focusing on public domestic expenditure and revenues at the national and subnational level. This will inform theory and policy makers on how to implement effective external financing, avoiding the so-called Samaritan Dilemma. We will mobilize administrative data from the Ugandan (MFPED) Ministry of Finance, Planning and Economic Development (already collected) with econometric analyses addressing: i) to what extent is aid fungible and how does it impact the fiscal behavior of recipient governments in the context of aid fragmentation and decentralization? ii) do these fiscal effects affect aid effectiveness and more broadly development? More information about the project [here](https://sites.google.com/site/ferrierenathalie/anr-fiscaid).
 
 ---
 
@@ -24,7 +24,7 @@ This research program aims to develop a methodological framework dedicated to th
 
 The framework mobilizes a multidisciplinary team of researchers who contribute to both its design and implementation. It is structured around three interconnected components, combining social sciences with natural and earth sciences, and integrating both quantitative and qualitative approaches. These include a quantitative system for socio-economic surveys of populations living in the Makay, an ecological monitoring system, and a qualitative socio-anthropological approach.
 
-Two waves of panel surveys, conducted in 2021 and 2024, have already been carried out among populations living near the Makay massif, as well as among individuals in more distant parts of the region. Initial results and analyses on living conditions, perceptions of insecurity and institutions, and representations of the environment and nature are available on the following website: 
+Two waves of panel surveys, conducted in 2021 and 2024, have already been carried out among populations living near the Makay massif, as well as among individuals in more distant parts of the region. Initial results and analyses on living conditions, perceptions of insecurity and institutions, and representations of the environment and nature are available [here](https://observamakay.hypotheses.org/).
 
 ---
 
