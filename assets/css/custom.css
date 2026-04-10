@@ -15,7 +15,11 @@
   margin-right: auto;
 }
 
-.page-header img.h-8 {
+.page-header .order-0 {
+  height: auto !important;
+}
+
+.page-header .order-0 img {
   height: 55px !important;
 }
 
