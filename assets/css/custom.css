@@ -15,9 +15,9 @@
   margin-right: auto;
 }
 
-.page-header .order-0 img {
+#logo_endossement_ERUDITE_couleur {
   height: 155px !important;
-  width: auto;
+  width: auto !important;
 }
 
 /* ===================================================== */

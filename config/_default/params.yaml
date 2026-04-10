@@ -38,7 +38,6 @@ header:
     show_language: false
     logo:
       filename: 'erudite-logo.svg'
-      height: 50
       
 # Site footer
 footer:
