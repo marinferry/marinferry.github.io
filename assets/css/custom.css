@@ -15,6 +15,12 @@
   margin-right: auto;
 }
 
+.navbar-brand svg {
+  height: 155px !important;
+  width: auto !important;
+  display: block;
+}
+
 #logo_endossement_ERUDITE_couleur {
   height: 155px !important;
   width: auto !important;
