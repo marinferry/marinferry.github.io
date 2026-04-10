@@ -7,8 +7,8 @@ layout: default
 
 ## Université Gustave Eiffel
 *Assistant Professor (full-time)*  
+Co-Head of DEIPM Master
 Head of second-year Bachelor  
-Co-Head of DEIPM Master  
 
 <br>
 
