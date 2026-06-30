@@ -65,11 +65,11 @@ type: page
 ## Publications in French Peer-Reviewed Journals
 
 - **Quel bilan tirer des initiatives d'annulation de la dette des pays pauvres très endettés?**  
-  Revue d’Économie Financière, vol. 141, pp. 225–239 (2021)  
+  <span style="color: #2563EB;">Revue d’Économie Financière</span>, vol. 141, pp. 225–239 (2021)  
 
 - **Réductions de dette, aléa moral et ré-endettement des pays à faible revenu**  
   with Marc Raffinot<br>
-  Techniques Financières et Développement (2016) - (in French)  
+  <span style="color: #2563EB;">Techniques Financières et Développement</span> (2016) - (in French)  
   
 
 ---
