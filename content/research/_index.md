@@ -25,7 +25,7 @@ type: page
 
 - **[Mitigating climate vulnerability: the crop diversification effect](https://www.sciencedirect.com/science/article/pii/S0921800925000515)**  
   with Jeanne de Montalembert<br>
-  Ecological Economics, vol. 233 (2025)  
+  <span style="color: #2563EB;">Ecological Economics</span>, vol. 233 (2025) 
 
 - **[Less debt, more schooling? Evidence from cross-country micro data](https://www.sciencedirect.com/science/article/abs/pii/S0147596721000445?via%3Dihub)**  
   with Marine De Talancé and Miguel Niño-Zarazúa<br>
