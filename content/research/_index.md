@@ -106,7 +106,7 @@ type: page
   
 
 - **Développement économique et social - Aide publique au développement** 
-  with Lisa Chauvet<br>  
+  with Lisa Chauvet<br>
   *Encyclopédie Universalis* (2014) - (in French)  
  
 
