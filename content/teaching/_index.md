@@ -6,18 +6,18 @@ layout: default
 <div class="teaching-page">
 
 ## Université Gustave Eiffel
-*Assistant Professor (full-time)*  
-Co-Head of DEIPM Master  
+*Assistant Professor (full-time)* 
+Co-Head of DEIPM Master 
 Head of second-year Bachelor 
 
 <br>
 
 - **Local Development Policies** – MSc. DEIPM Management (2021 - Current) 
-- **Aid Effectiveness** – MSc. DEIPM (2025 - Current)  
-- **Macroeconomics** – 2nd year Undergraduate (2023 - Current)  
-- **Money and Finance** – 2nd year Undergraduate (2023 - Current)  
-- **Macroeconomics** – 2nd year Undergraduate (UIT) (2019 - 2024)  
-- **Economics 101** – 1st year Undergraduate (UIT) (2019 - 2023)  
+- **Aid Effectiveness** – MSc. DEIPM (2025 - Current) 
+- **Macroeconomics** – 2nd year Undergraduate (2023 - Current) 
+- **Money and Finance** – 2nd year Undergraduate (2023 - Current) 
+- **Macroeconomics** – 2nd year Undergraduate (UIT) (2019 - 2024) 
+- **Economics 101** – 1st year Undergraduate (UIT) (2019 - 2023) 
 
 ## Paris 1 University Panthéon-Sorbonne
 *External Lecturer (6 hours intervention)*  
