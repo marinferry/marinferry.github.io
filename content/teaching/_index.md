@@ -6,9 +6,9 @@ layout: default
 <div class="teaching-page">
 
 ## Université Gustave Eiffel
-*Assistant Professor (full-time)* 
-Co-Head of DEIPM Master 
-Head of second-year Bachelor 
+*Assistant Professor (full-time)*
+Co-Head of DEIPM Master
+Head of second-year Bachelor
 
 <br>
 
