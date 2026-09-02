@@ -12,8 +12,7 @@ sections:
   - block: biography
     content:
       username: admin
-      text: "<p class='text-center'>I am an assistant professor (MCF) in economics at Université Gustave Eiffel and a member of the research unit ERUDITE. I am affiliated with the DIAL research team of the Université Paris Dauphine and the IRD. Since March 2024, I also worked as a consultant for the Banque de France (Service Afrique et Développement). My research focuses on international and domestic financing, political economy, and environmental policies in the context of developing economies. I examine how financial and policy choices shape economic development, sustainability, and resilience in these regions.<br> 
-       For the 2026–2027 academic year, I will be on a CNRS délégation at AMSE (Aix-Marseille School of Economics). </p>"
+      text: "<p class='text-center'>I am an assistant professor (MCF) in economics at Université Gustave Eiffel and a member of the research unit ERUDITE. I am affiliated with the DIAL research team of the Université Paris Dauphine and the IRD. Since March 2024, I also worked as a consultant for the Banque de France (Service Afrique et Développement). My research focuses on international and domestic financing, political economy, and environmental policies in the context of developing economies. I examine how financial and policy choices shape economic development, sustainability, and resilience in these regions. For the 2026–2027 academic year, I will be on a CNRS délégation at AMSE (Aix-Marseille School of Economics). </p>"
       button:
         text: Download my CV
         url: uploads/MF_CV_2026.pdf
