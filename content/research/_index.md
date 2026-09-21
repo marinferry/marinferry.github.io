@@ -16,7 +16,7 @@ type: page
 - **From Debt Rest to Growth Onset? Sovereign Debt Restructuring and Firm Performance in Developing Countries**  
   with Luc Jacolin and Quentin Dufresne
 
-  - **The Bank-Sovereign Nexus After Debt Restructuring**  
+- **The Bank-Sovereign Nexus After Debt Restructuring**  
   with Luc Jacolin and Quentin Dufresne
 
 - **Giving Birth in Times of Austerity: Fiscal Consolidation and Infant Mortality in Sub-Saharan Africa**  
