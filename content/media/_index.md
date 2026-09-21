@@ -38,6 +38,11 @@ type: page
  
 
 ## Media interviews
+
+- **[Crise de la dette: histoire (et leçons) de l'annulation](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/crise-de-la-dette-histoire-et-lecons-de-l-annulation-4335138)**<br>
+  *Entendez-vous l'éco (September 2026)* France-Culture<br>
+  (44 minutes)<br>
+
 - **[Crise des dettes et souveraineté](https://podcast.ausha.co/l-internationale/crise-des-dettes-et-souverainete)**<br>
   *L'internationale (December 2025)* Fondation Jean-Jaurès<br>
   (20 minutes)<br>
