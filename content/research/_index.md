@@ -7,9 +7,6 @@ type: page
 
 ## Work in Progress
 
-- **[Foreign Aid and Power Play: Political Cycles in World Bank's Procurement Allocation](https://www.aiddata.org/publications/foreign-aid-and-power-play-political-cycles-in-world-banks-procurement-allocation)**  
-  with Antoine Boucher and Lisa Chauvet – R&R at World Development
-
 - **Out of Sight, Out of Mind? Spatial Divide and Tax Attitudes in Africa**  
   with Lisa Chauvet, Siyavash Eslami, Laure Pasquier-Doumer – Submitted
 
@@ -25,6 +22,10 @@ type: page
 ---
 
 ## Peer-reviewed publications
+
+- **[Foreign Aid and Power Play: Political Cycles in World Bank's Procurement Allocation](https://www.aiddata.org/publications/foreign-aid-and-power-play-political-cycles-in-world-banks-procurement-allocation)**  
+  with Antoine Boucher and Lisa Chauvet<br>
+  <span style="color: #2563EB;">World Development</span> (accepted for publication)
 
 - **[Mitigating climate vulnerability: the crop diversification effect](https://www.sciencedirect.com/science/article/pii/S0921800925000515)**  
   with Jeanne de Montalembert<br>
