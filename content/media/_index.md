@@ -5,16 +5,18 @@ type: page
 <div class="media-page">
 
 ## Press articles
+- **[Couper l’aide au développement au nom de l’intérêt national : le paradoxe des pays donateurs](https://theconversation.com/couper-laide-au-developpement-au-nom-de-linteret-national-le-paradoxe-des-pays-donateurs-293771)**<br>
+  with Lisa Chauvet and Antoine Boucher<br>
+  *The Conversation*, Octobre 2026 (2026) - (in French)
+
 - **[Le financement du développement à l'épreuve du Covid 19](https://shs.cairn.info/revue-l-economie-politique-2021-2-page-93)**<br>
   with Marc Raffinot and Babacar Sene<br>
   *L'Economie Politique n°90 (Alternatives économiques)* (2021) - (in French)
-
 
 - **[Dette des Pays en Développement: La Covid-19 change la donne](https://theconversation.com/dette-des-pays-en-developpement-la-covid-19-change-la-donne-145844)**<br>
   with Marc Raffinot and Babacar Sene<br>
   *The Conversation*, Septembre 2020 (2020) - (in French)
  
-
 - **[La dette des Etats d'Afrique subsaharienne à l'épreuve du Covid-19](https://theconversation.com/la-dette-des-etats-dafrique-subsaharienne-a-lepreuve-du-covid-19-136762)**<br>
   with Marc Raffinot and Babacar Sene<br>
   *The Conversation*, April 2020 (2020) - (in French)

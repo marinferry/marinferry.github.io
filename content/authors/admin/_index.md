@@ -32,6 +32,9 @@ profiles:
     url: https://github.com/MarinFerry
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/marin-ferry/
+  - icon: academicons/google-scholar
+    url: 'https://scholar.google.com/citations?user=-VEET_EAAAAJ&hl=fr'
+    label: Google Scholar
 
 interests:
   - Development Economics
