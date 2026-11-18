@@ -56,4 +56,7 @@ type: page
 - **[Le sommet à Paris pour un pacte financier mondial se termine sans grande révolution](https://www.rts.ch/info/monde/14126277-le-sommet-a-paris-pour-un-pacte-financier-mondial-se-termine-sans-grande-revolution.html)**<br>
   *RTS (June 2023)*<br>
 
+- **[Covid-19 : vers plus de soutien aux économies africaines ?](https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20210518-covid-19-e-macron-pr%C3%A9conise-plus-de-soutien-aux-%C3%A9conomies-africaines)**<br>
+  *France 24 (June 2021)*
+
 </div>
